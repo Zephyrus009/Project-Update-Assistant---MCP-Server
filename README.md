@@ -1,1 +1,1 @@
-# Project-Update-Assistant---MCP-Server
+# Project-Update-Assistant - MCP-Server
